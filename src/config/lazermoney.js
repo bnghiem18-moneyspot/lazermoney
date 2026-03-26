@@ -17,15 +17,15 @@ const lazermoneyConfig = {
 
   // === Contact Information ===
   contact: {
-    phone: '1-800-LAZER-99',
-    phoneDisplay: '1-800-529-3799',
-    email: 'support@lazermoney.com',
+    phone: '1-300-680-729',
+    phoneDisplay: '1-300-680-729',
+    email: 'info@lazermoney.com.au',
     address: {
-      street: '100 Financial District',
-      suite: 'Suite 2400',
-      city: 'San Francisco',
-      state: 'CA',
-      zip: '94111',
+      street: 'PO Box 1006',
+      suite: '',
+      city: 'Strawberry Hills',
+      state: 'NSW',
+      zip: '2012',
     },
     hours: {
       weekdays: '8:00 AM - 8:00 PM EST',
